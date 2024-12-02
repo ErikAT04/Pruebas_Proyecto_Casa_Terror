@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id bajarBtt
+id cartasGridLayout
+id derechaBtt
+id izquierdaBtt
+id main
+id preg2Btt
+id pregBtt
+id preguntaTXT
+id respuestaBtt
+id respuestaLayout
+id subirBtt
+id textView
+layout activity_inicio_prueba
+layout activity_main
+layout activity_pregunta
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.PruebasCasaTerror
+style Theme.PruebasCasaTerror
+xml backup_rules
+xml data_extraction_rules

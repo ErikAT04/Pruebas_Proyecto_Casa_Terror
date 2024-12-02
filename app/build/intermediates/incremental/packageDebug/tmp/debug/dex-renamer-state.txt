@@ -1,0 +1,13 @@
+#Mon Dec 02 21:23:51 CET 2024
+base.0=Z\:\\DAM 2\\Programacion Multimedia y Moviles\\Pruebas_Casa_Terror\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=Z\:\\DAM 2\\Programacion Multimedia y Moviles\\Pruebas_Casa_Terror\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=Z\:\\DAM 2\\Programacion Multimedia y Moviles\\Pruebas_Casa_Terror\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.3=Z\:\\DAM 2\\Programacion Multimedia y Moviles\\Pruebas_Casa_Terror\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=14/classes.dex
+path.3=4/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

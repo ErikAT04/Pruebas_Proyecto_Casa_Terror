@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "androids.erikat.pruebascasaterror.app-mergeDebugResources-31:/layout/activity_inicio_prueba.xml",
+        "source": "androids.erikat.pruebascasaterror.app-main-34:/layout/activity_inicio_prueba.xml"
+    },
+    {
+        "merged": "androids.erikat.pruebascasaterror.app-mergeDebugResources-31:/layout/activity_pregunta.xml",
+        "source": "androids.erikat.pruebascasaterror.app-main-34:/layout/activity_pregunta.xml"
+    },
+    {
+        "merged": "androids.erikat.pruebascasaterror.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "androids.erikat.pruebascasaterror.app-main-34:/layout/activity_main.xml"
+    }
+]

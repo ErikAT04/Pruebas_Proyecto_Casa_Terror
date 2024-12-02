@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PreguntaActivity">
+
+    <TextView
+        android:id="@+id/preguntaTXT"
+        android:layout_width="292dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="76dp"
+        android:text="La pregunta va aquí"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/respuestaBtt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="48dp"
+        android:text="Responder"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/respuestaLayout"
+        android:layout_width="295dp"
+        android:layout_height="318dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/respuestaBtt"
+        app:layout_constraintEnd_toEndOf="@+id/preguntaTXT"
+        app:layout_constraintStart_toStartOf="@+id/preguntaTXT"
+        app:layout_constraintTop_toBottomOf="@+id/preguntaTXT"></LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
